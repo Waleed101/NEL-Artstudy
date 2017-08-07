@@ -8,4 +8,6 @@ rank the user against others. This was created for a MIT Neuroeconomics Lab.
 <b>Completion of Project:</b> August 6th<br>
 <b>Languages Used:</b> HTML, CSS, Javascript, jQuery, Bootstrap Framework, React.js, PHP, MySQL
 
-Some Screenshots:
+# Some Screenshots:
+
+<img src="scr1.png"> <br><b>Homepage</b>
