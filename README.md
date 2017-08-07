@@ -1,5 +1,3 @@
-
-                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 # NEL-Artstudy
 
 Project done for a Freelancer client. User is supposed to attempt to value the different paintings based on how the look. The user
@@ -12,7 +10,8 @@ rank the user against others. This was created for a MIT Neuroeconomics Lab.
 
 # Some Screenshots:
 
-<div style="text-align:center"><center><img src="scr1.png" width="50%" height="27%"><br><b>Homepage</b></center></div>
+##Homepage
+<div style="text-align:center"><img src="scr1.png" width="50%" height="27%"><br><br></div>
 <div style="text-align:center"><center><img src="scr2.png" width="50%" height="27%"><br><b>User Creation Page</b></center></div>
 <center><img src="scr3.png" width="50%" height="27%"><br><b>Part One - Value of Paintings</b></center>
 <center><img src="scr4.png" width="50%" height="27%"><br><b>Part Two - Creation of Portfolio</b></center>
