@@ -1,5 +1,6 @@
 # NEL-Artstudy
 
+# Information #
 Project done for a Freelancer client. User is supposed to attempt to value the different paintings based on how the look. The user
 can also purchase hints for $5,000. The second part of the game is where the user creates their own portfolio and that is used to
 rank the user against others. This was created for a MIT Neuroeconomics Lab.
@@ -8,9 +9,9 @@ rank the user against others. This was created for a MIT Neuroeconomics Lab.
 <b>Completion of Project:</b> August 6th<br>
 <b>Languages Used:</b> HTML, CSS, Javascript, jQuery, Bootstrap Framework, React.js, PHP, MySQL
 
-# Some Screenshots:
+# Some Screenshots #
 
-##Homepage
+## Homepage ##
 <div style="text-align:center"><img src="scr1.png" width="50%" height="27%"><br><br></div>
 <div style="text-align:center"><center><img src="scr2.png" width="50%" height="27%"><br><b>User Creation Page</b></center></div>
 <center><img src="scr3.png" width="50%" height="27%"><br><b>Part One - Value of Paintings</b></center>
