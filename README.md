@@ -13,7 +13,7 @@ rank the user against others. This was created for a MIT Neuroeconomics Lab.
 # Some Screenshots:
 
 <div class="col-lg-6"><center><img src="scr1.png" width="50%" height="27%"><br><b>Homepage</b></center></div>
-<center><img src="scr2.png" width="50%" height="27%"><br><b>User Creation Page</b></center>
+<div class="col-lg-6"><center><img src="scr2.png" width="50%" height="27%"><br><b>User Creation Page</b></center></div>
 <center><img src="scr3.png" width="50%" height="27%"><br><b>Part One - Value of Paintings</b></center>
 <center><img src="scr4.png" width="50%" height="27%"><br><b>Part Two - Creation of Portfolio</b></center>
 <center><img src="scr5.png" width="50%" height="27%"><br><b>Leaderboard and Score Check</b></center>
