@@ -10,4 +10,4 @@ rank the user against others. This was created for a MIT Neuroeconomics Lab.
 
 # Some Screenshots:
 
-<img src="scr1.png"> <br><b>Homepage</b>
+<img src="scr1.png" width="50%" height="27%"> <center><br><b>Homepage</b></center>
